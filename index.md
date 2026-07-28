@@ -2,4 +2,5 @@
 
 1. [Exercise 1: A Hydro-Sleeve Travel Tumbler](./Exercise-1--The-HydroSleeve-Travel-Tumbler)
      - A parametric, insulated travel tumbler with snap-fit lid and textured sleeve — focuses on Revolve, Shell, and Assembly Mates.
-       (./Exercise-1--The-HydroSleeve-Travel-Tumbler/images/img_2)
+
+       ![Image](./Exercise-1--The-HydroSleeve-Travel-Tumbler/images/img_2)
