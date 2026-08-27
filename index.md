@@ -6,4 +6,4 @@
 
 2. [Exercise 2: A Ribbed Ergonomic Mug & Lid Assembly](https://github.com/Snamosr/cad_exercises/tree/main/Exercise-2---Ribbed-Mug-&-Lid-Assembly)
      - A parametric, insulated travel tumbler with snap-fit lid and textured sleeve — focuses on Revolve, Shell, and Assembly Mates.
-       ![Image](./Exercise-1---Ribbed-Mug-&-Lid-Assembly/images/render2.JPG)
+       ![Image](./Exercise-2---Ribbed-Mug-&-Lid-Assembly/images/render-1.JPG)
