@@ -1,6 +1,6 @@
 # Excersice 2: Ribbed Ergonomic Mug & Lid Assembly
 
-![Ribbed Mug Render](./images/render-1.jpg)
+![Ribbed Mug Render](./images/render-1.JPG)
 
 Welcome to **Exercise 2** of the CAD Practice Series!
 
@@ -15,13 +15,14 @@ This exercise builds on primary modeling fundamentals while introducing pattern 
 * **Multi-Part Fit:** Creating matching clearance tolerances on the $\varnothing 74.00\text{ m}$ lid lip to snap securely into the top rim.
 * **Sectional Wall Thickness:** Maintaining uniform $1.50\text{ mm}$ wall thickness across complex geometry using revolve cut feature.
 
+![alt text](./images/render-3.JPG)
 ---
 
 ## 📐 Blueprint & Technical Drawings
 
 Review the detailed blueprint below before starting your model. Pay specific attention to **`SECTION A-A`** for the rib profile and handle mounting angles, and **`SECTION B-B` && `SECTION C-C`** for the internal lip dimensions on the lid.
 
-![Technical Drawing Sheet](./files/Drawing_sheet.pdf)
+![Technical Drawing Sheet](./files/drawing_sheet.pdf)
 
 ### Key Specificaitons:
 * **Overall Height:** $85.00\text{ mm}$
@@ -36,3 +37,15 @@ Review the detailed blueprint below before starting your model. Pay specific att
 1. **Body First, Ribs Second:** Revolve the main tapered body profile before applying the corrugated ring pattern to avoid complicated geometry and errors.
 2. **Extrude Handle Alignment:** Sketch the side profile of the plane of the ***Body*** and extrude using **Mid Plane blind** end condition to merge smoothly into the cup wall.
 3. **Lid Clearance:** Use **``SECTION C-C``** on the drawing sheet (Scale $2:1$) to model the internal snap-ridge detail ($0.50\text{ mm}$ offset) for the rotating top insert.
+
+---
+
+## 📁 Downloads & Resources
+* 📄 [Download High-Resolution Drawing Sheet (PDF)](.files/drawing_sheet.pdf)
+* 📦 [Download Complete Assembly (STEP)](./files/Ribbed_Mug.step)
+
+---
+
+## APPENDIX
+---
+![alt text](./images/render-2.JPG)![alt text](./images/render-4.JPG)![alt text](./images/render-5.png)![alt text](./images/render-6.png)![alt text](./images/render-7.png)
