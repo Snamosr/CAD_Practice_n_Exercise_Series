@@ -35,7 +35,7 @@ Each exercise in this series includes:
   * 📁`Exercise` - Contains all file respective to this Project/Exercise.
     * 📁`files` - Native or neutral CAD files (`.SLDPRT`, `.SLDASM`, `.STEP`) and `.pdf` drawing sheet.
     * 📁`images` - High-quality renders and technical drawing captures.
-    * `description` - Markdown documentation of design intent and feature trees.
+    * `README` - Markdown documentation of design intent and feature trees.
 
 ---
 
