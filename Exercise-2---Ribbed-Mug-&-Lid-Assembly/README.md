@@ -4,7 +4,7 @@
 
 Welcome to **Exercise 2** of the CAD Practice Series!
 
-In this challenge, you will model an ergonomic plastic mug feasturing a corrugated external grip, an extruded handle, and a two-piece press-fit lid mechansim with a rotating closure insert.
+In this challenge, you will model an ergonomic plastic mug featuring a corrugated external grip, an extruded handle, and a two-piece press-fit lid mechanism with a rotating closure insert.
 
 ---
 
@@ -22,9 +22,9 @@ This exercise builds on primary modeling fundamentals while introducing pattern 
 
 Review the detailed blueprint below before starting your model. Pay specific attention to **`SECTION A-A`** for the rib profile and handle mounting angles, and **`SECTION B-B` && `SECTION C-C`** for the internal lip dimensions on the lid.
 
-![Technical Drawing Sheet](./files/drawing_sheet.pdf)
+![Technical Drawing Sheet](./images/dwgsheet.png)
 
-### Key Specificaitons:
+### Key Specifications:
 * **Overall Height:** $85.00\text{ mm}$
 * **Top Rim Outside Diameter:** $\varnothing 73.00\text{ mm}$
 * **Base Outside Diameter:** $\varnothing 60.00\text{ mm}$
@@ -33,7 +33,7 @@ Review the detailed blueprint below before starting your model. Pay specific att
 * **Handle Attachment Angles:** $135^\circ$ to mating face / $15^\circ$ bottom alignment angle.
  ---
 
-* ## 💡 Pro Tips for Modeling
+## 💡 Pro Tips for Modeling
 1. **Body First, Ribs Second:** Revolve the main tapered body profile before applying the corrugated ring pattern to avoid complicated geometry and errors.
 2. **Extrude Handle Alignment:** Sketch the side profile of the plane of the ***Body*** and extrude using **Mid Plane blind** end condition to merge smoothly into the cup wall.
 3. **Lid Clearance:** Use **``SECTION C-C``** on the drawing sheet (Scale $2:1$) to model the internal snap-ridge detail ($0.50\text{ mm}$ offset) for the rotating top insert.
@@ -45,6 +45,9 @@ Review the detailed blueprint below before starting your model. Pay specific att
 * 📦 [Download Complete Assembly (STEP)](./files/Ribbed_Mug.step)
 
 ---
+
+### 💬 Show Your Work!
+Did you successfully complete this exercise? Post your finished renders, feature trees, or section view checks in the [Discussions / Issues tab](../../issues)!
 
 ## APPENDIX
 ---
