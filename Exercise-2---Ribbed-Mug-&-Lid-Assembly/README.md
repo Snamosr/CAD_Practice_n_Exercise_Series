@@ -1,6 +1,6 @@
 # Excersice 2: Ribbed Ergonomic Mug & Lid Assembly
 
-![Ribbed Mug Render](./images/)
+![Ribbed Mug Render](./images/render-1.jpg)
 
 Welcome to **Exercise 2** of the CAD Practice Series!
 
