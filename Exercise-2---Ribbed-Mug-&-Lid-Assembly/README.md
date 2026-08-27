@@ -47,7 +47,9 @@ Review the detailed blueprint below before starting your model. Pay specific att
 ---
 
 ### 💬 Show Your Work!
-Did you successfully complete this exercise? Post your finished renders, feature trees, or section view checks in the [Discussions / Issues tab](../../issues)!
+Did you successfully complete this exercise? Share your complete model or finished renders! If you encountered any tricky dimensions, drop a comment or open an issue in this repository.
+
+--- 
 
 ## APPENDIX
 ---
